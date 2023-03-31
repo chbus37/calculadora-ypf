@@ -1,0 +1,29 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url(https://vivo247.com/wp-content/uploads/2020/07/ypf-12072020.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    margin: 1em;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1em;
+}
+
+button {
+    color: rgb(000, 105, 166);
+    background-color: rgb(090, 183, 178);
+    border-style: hidden;
+    padding: 5px;
+    font-weight: 800;
+    border-radius: 3px;
+}
